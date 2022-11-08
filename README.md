@@ -4,14 +4,12 @@
 <br>
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
  
- - 👨‍💻 My Portfolio -[Prakash Keshari](rakashkeshari.dev.voyage)
+ - 🌱 I’m currently learning **Machine Learning.**
 
-- 🌱 I’m currently learning **Machine Learning.**
-
- - My Kaggle - **[Amrita Singh](https://www.kaggle.com/prakashkeshari)**
+ - My Kaggle - **[Amrita Singh](https://www.kaggle.com/amritasingh97)**
 
 - 📫 How to reach me **aman2534p@gmail.com**
 - :zap: In my free time, I solve python questions and work on visualization.
-- :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/prakash-keshari-3610911ba)
+- :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/amrita-singh-458422192/)
 
  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Data Analysis By ME
