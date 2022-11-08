@@ -13,3 +13,4 @@
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/amrita-singh-458422192/)
 
  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Data Analysis By ME
+![WhatsApp Image 2022-10-12 at 1 00 54 PM](https://user-images.githubusercontent.com/117764968/200653281-6b13651c-a69c-4817-9361-dcd14ba676a8.jpeg)
