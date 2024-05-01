@@ -8,9 +8,10 @@
 
  - My Kaggle - **[Amrita Singh](https://www.kaggle.com/amritasingh97)**
 
-- 📫 How to reach me **aman2534p@gmail.com**
+- 📫 How to reach me **amrita.singh9608@gmail.com**
 - :zap: In my free time, I solve python questions and work on visualization.
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/amrita-singh-458422192/)
 
  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Data Analysis By ME
+ 
 
