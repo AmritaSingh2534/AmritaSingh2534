@@ -1,8 +1,7 @@
 <h1 align="center">Amrita Singh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Data Analyst | Python Enthusiast | Problem Solver </h2>
 <h2 dir="auto"></a> <strong>About Me:</strong></h2>
-<br>
-<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+<br><img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
  🌱 Currently learning **Machine Learning** for Data Science Specialist.
 - 📊 Skilled in **data analysis**, **database management**, and **problem-solving**.
 - 💼 Experienced in **Microsoft Office Excel** for data manipulation and analysis.
