@@ -5,12 +5,14 @@
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
 Skilled in **Data Analysis**, **Database Management**, **Creating dashboards**, and **Problem-solving**.
-- Proficient in extracting impactful insights for growth and transformation of businesses.
-- Experienced in **Microsoft Office Excel** for data manipulation and analysis, fetching insights through **SQL** and **Python**.
-- Creating actionable dashboards for **data visualization** using tools like **Power BI** and **Tableau**.
-- Passionate about using data to drive **business decisions** and **process efficiencies**. 
+I specialize in extracting actionable insights to drive growth and transformation in businesses.
 
-- 📫 Reach out to me through Mail: **amrita.singh9608@gmail.com**
-- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/amrita-singh-458422192/)
-- Kaggle: [Amrita Singh](https://www.kaggle.com/amritasingh97)
-- Currently learning **Machine Learning**.
+- Leveraging my experience in **Microsoft Office Excel**, **SQL**, and **Python**, I excel at data manipulation and analysis, unearthing valuable insights to fuel informed decision-making.
+
+- Proficient in crafting interactive dashboards for **data visualization** using tools like **Power BI** and **Tableau**, I empower teams with intuitive tools to drive strategic initiatives.
+
+- Fueled by a passion for leveraging data to drive business decisions and optimize processes, I am dedicated to achieving operational excellence and driving sustainable growth.
+
+- Connect with me via email at **amrita.singh9608@gmail.com**, or through [LinkedIn](https://www.linkedin.com/in/amrita-singh-458422192/) to explore collaboration opportunities.
+
+🌱 Currently, I am deepening my skills in **Machine Learning**, exploring its applications in data-driven decision-making and predictive analytics.🌱
