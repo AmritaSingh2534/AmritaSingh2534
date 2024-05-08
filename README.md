@@ -15,4 +15,4 @@ I specialize in extracting actionable insights to drive growth and transformatio
 
 - Connect with me via email at **amrita.singh9608@gmail.com**, or through [LinkedIn](https://www.linkedin.com/in/amrita-singh-458422192/) to explore collaboration opportunities.
 
-🌱 Currently, I am deepening my skills in **Machine Learning**, exploring its applications in data-driven decision-making and predictive analytics.🌱
+Currently, I am deepening my skills in **Machine Learning**, exploring its applications in data-driven decision-making and predictive analytics.
