@@ -1,6 +1,6 @@
 <h1 align="center">Amrita Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h2 align="center">Data Analyst | Python Enthusiast | Data Scientist Enthusiast|</h2>
-<h2 align="centre" dir="auto"><strong>About Me</strong></h2>
+<h2 align="center">Data Analyst | Python & Data Science Enthusiast</h2>
+<h2 align="center" dir="auto"><strong>About Me</strong></h2>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
